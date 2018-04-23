@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/compare"
+        android:orderInCategory="100"
+        android:title="@string/ComparePc" />
+    <item
+        android:id="@+id/acercade"
+        android:orderInCategory="100"
+        android:title="@string/AboutOf" />
+    <item
+        android:id="@+id/seeHelp"
+        android:orderInCategory="100"
+        android:title="@string/seeHelp" />
+
+    <item
+        android:id="@+id/endSession"
+        android:orderInCategory="100"
+        android:title="@string/endSession" />
+</menu>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">AppFrojas</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">No tienes cuenta?</string>
+    <string name="create_here">Crear cuenta</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_password_confirm">Confirmar contraseña</string>
+    <string name="text_button_createaccount">Unirse</string>
+
+    <string name="toolbar_tittle_createaccount"> Crear cuenta</string>
+    <string name="toolbar_tittle_comparePcs"> Comparar Pcs</string>
+    <string name="toolbar_tittle_characteristics"> Caracteristicas</string>
+    <string name="toolbar_tittle_perfilAccount"> Perfil </string>
+    <string name="toolbar_tittle_Home"> Inicio </string>
+
+    <string name="transitionname_picture">transitionnamepicture</string>
+    <string name="lorem">El Surface más potente de la historia. Disfruta de una duración de la batería de hasta 17 horas1 y una potencia 4 veces superior al dispositivo Surface Book original.</string>
+    <string name="loremMac">Con el MacBook, nos propusimos lograr lo imposible: desarrollar una experiencia completa en el notebook Mac más compacto hasta el momento. No sólo es más liviano y delgado, también es mucho más poderoso. Los procesadores Intel Core m3, i5 e i7 de séptima generación1 y el almacenamiento SSD hasta un 50% más rápido hacen que el rendimiento del nuevo MacBook sea hasta un 20% más potente.</string>
+    <string name="AboutOf">Acerca de</string>
+    <string name="profile">Ingeniero de sistemas, Estudiante de Maestria en Ingenieria Computacional, backend developer.</string>
+    <string name="NameProfile">Francisco Rojas</string>
+    <string name="ComparePc">Comparar Equipos</string>
+    <string name="seeHelp">Ver ayuda</string>
+    <string name="endSession">Cerrar Sesion</string>
+    <string name="sizePc">13,5 pulgadas (2256x1504, 201ppp, pantalla táctil)</string>
+    <string name="sizeMac">12 pulgadas (2304x1440, 226ppp)</string>
+    <string name="cpuPc">Intel Core i5 de 7º generación</string>
+    <string name="cpuMac">Intel Core m3 a 1,1 GHz dual-core</string>
+    <string name="ramPC">4GB</string>
+    <string name="ramMac">8GB LPDDR3</string>
+    <string name="bateryPc">14,5 horas de reproducción de vídeo</string>
+    <string name="bateryMac">11 horas de reproducción de vídeo</string>
+    <string name="puertosPC">Puerto USB 3.0,puerto jack</string>
+    <string name="puertosMac">Puerto USB 3.0,puerto jack</string>
+    <string name="pesoPc">1,25 kg</string>
+    <string name="pesoMac">0,92 kg</string>
+    <string name="almacenamientoPc">128GB SSD</string>
+    <string name="almacenamientoMac">256GB SSD</string>
+    <string name="precioPc">Desde 999 dólares</string>
+    <string name="precioMac">Desde 1.449 euros</string>
+    <string name="pantalla">Pantalla</string>
+    <string name="bateria">Bateria</string>
+    <string name="puertos">Puertos</string>
+    <string name="peso">Peso</string>
+    <string name="almacenamiento">Almacenamiento</string>
+    <string name="precio">Precio</string>
+    <string name="future">El futuro es liviano.</string>
+    <string name="sesionEnd">La sesion ha finalizado con exito</string>
+    <string name="continuar">Continuar</string>
+    <string name="thanksforregister">Gracias por registrarte</string>
+
+</resources>
